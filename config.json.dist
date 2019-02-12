@@ -1,0 +1,8 @@
+{
+    "host" : "localhost",
+    "user" : "root",
+    "password" : "",
+    "database" : "edge",
+    "serverPort" : 3306,
+    "enviroment" : "DEV"
+}
